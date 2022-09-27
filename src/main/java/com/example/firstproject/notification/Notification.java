@@ -31,6 +31,7 @@ private ZonedDateTime timestamp; // wann die Nachricht gesendet oder empfängt w
         this.timestamp = timestamp;
     }
     //test
+    //
 
     @Override
     public String toString() {
